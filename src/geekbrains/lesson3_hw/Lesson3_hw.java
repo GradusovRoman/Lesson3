@@ -7,11 +7,13 @@ public class Lesson3_hw {
     private static Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
+
         //1 Задание
         System.out.println("Задание №1");
         int range = 10;
         playLevel(range);
         System.out.println();
+
         //2 Задание
         System.out.println("Задание №2");
         System.out.println();
