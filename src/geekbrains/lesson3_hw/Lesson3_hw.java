@@ -18,7 +18,6 @@ public class Lesson3_hw {
         guessProduct ();
     }
 
-
     private static void playLevel(int range) {
         System.out.println("Ваша задача угадать число.");
         int number = (int) (Math.random() * range);
